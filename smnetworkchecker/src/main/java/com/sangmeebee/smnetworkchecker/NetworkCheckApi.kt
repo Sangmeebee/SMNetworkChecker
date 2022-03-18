@@ -60,5 +60,5 @@ object NetworkCheckApi {
     }
 
     fun getNetWorkConnectState(): Boolean = networkState
-    fun getWifiState(): Boolean = wifiState
+    fun getWifiConnectState(): Boolean = wifiState
 }
