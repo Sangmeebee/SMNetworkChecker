@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.sangmeebee.smnetworkcheckerdemo
 
 import org.junit.Test
 
